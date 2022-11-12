@@ -1,1 +1,1 @@
-vless://6a589d66-1984-4daa-f18e-c6215b78e88f@freeviettle.tpotppro.xyz:2087?encryption=none&security=tls&sni=freeviettle.tpotppro.xyz&type=tcp&headerType=none#YouTube%20%E7%B6%B2%E7%B5%A1starlight%E5%88%86%E4%BA%AB
+vless://71775278-cf12-4318-a22d-84b579e23da6@[2402:800:6117:5a38::dfb]:65534?encryption=none&security=none&type=tcp&headerType=none#YouTube%20%E7%B6%B2%E7%B5%A1starlight%E5%88%86%E6%9E%90%E7%B4%94IPV6-viettel
