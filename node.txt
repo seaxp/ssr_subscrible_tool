@@ -1,1 +1,2 @@
-vless://b552d4b5-ec05-43fd-c61d-fb642c86ce79@8.tpotppro.xyz:8443?encryption=none&security=tls&sni=8.tpotppro.xyz&type=tcp&headerType=none#VN%E7%B4%94IPV6%2FYouTube%20%E7%B6%B2%E7%B5%A1starlight%E5%88%86%E4%BA%AB
+vless://fe06e6fa-a1b1-4cbe-857e-9541340d1130@usa2.tpotppro.xyz:65534?encryption=none&security=tls&sni=usa2.tpotppro.xyz&type=tcp&headerType=none&host=usa2.tpotppro.xyz#USA%E5%8F%8C%E6%A0%88%2FYouTube%20%E7%B6%B2%E7%B5%A1starlight%E5%88%86%E4%BA%AB
+vless://b552d4b5-ec05-43fd-c61d-fb642c86ce79@8.tpotppro.xyz:8443?encryption=none&security=tls&sni=8.tpotppro.xyz&type=tcp&headerType=none#VN%2FYouTube%20%E7%B6%B2%E7%B5%A1starlight%E5%88%86%E4%BA%AB
